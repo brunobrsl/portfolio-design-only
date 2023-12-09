@@ -4,7 +4,7 @@
 Desafio do Discover da Rocketseat
 ![Preview](./assets/preview.png)
 
-## Tecnologias utilizadas
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
